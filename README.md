@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
 <p align="center"><img src="https://github.com/sparsh-007/Pokedex/blob/main/public/images/Screenshot%202022-07-10%20at%206.00.52%20AM.png"/></p>
+<p align="center"><b>https://pokedex-sparsh.netlify.app</b></p>
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
